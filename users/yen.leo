@@ -86,20 +86,28 @@
 <v t="leo.20161108194728.5"><vh>解決子模組在對應上的問題</vh></v>
 </v>
 </v>
-<v t="leo.20161108194731.1"><vh>20161028</vh>
+<v t="leo.20161108194731.1" a="E"><vh>20161028</vh>
 <v t="leo.20161108194731.2"><vh>上課日期</vh>
 <v t="leo.20161108194731.3"><vh>20161028</vh></v>
 </v>
-<v t="leo.20161108194731.4"><vh>上課內容1</vh>
+<v t="leo.20161108194731.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161108194731.5"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
-<v t="leo.20161108194735.1"><vh>20161104</vh>
+<v t="leo.20161108194735.1" a="E"><vh>20161104</vh>
 <v t="leo.20161108194735.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161108194735.3"><vh>20161104</vh></v>
 </v>
 <v t="leo.20161108194735.4" a="E"><vh>上課內容1</vh>
-<v t="leo.20161108194735.5"><vh>使用Trace Point計算路徑</vh></v>
+<v t="leo.20161108194735.5"><vh>期中自評與小組互評</vh></v>
+</v>
+</v>
+<v t="leo.20161115210547.1" a="E"><vh>20161111</vh>
+<v t="leo.20161115210547.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161115210547.3"><vh>20161111</vh></v>
+</v>
+<v t="leo.20161115210547.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161115210547.5"><vh>期中各班各組課程資料直接檢視</vh></v>
 </v>
 </v>
 </v>
@@ -131,6 +139,7 @@
 <v t="leo.20161104092016.2"><vh>@edit 20161021.md</vh></v>
 <v t="leo.20161104092016.3"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161108192641.1"><vh>@edit 20161104.md</vh></v>
+<v t="leo.20161115210806.1"><vh>@edit 20161111.md</vh></v>
 </v>
 </v>
 </v>
@@ -672,11 +681,37 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161108194735.5">## 使用Trace Point計算路徑
+<t tx="leo.20161108194735.5">## 期中自評與小組互評
 
-&lt;iframe src="https://player.vimeo.com/video/190090265" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="http://pygroup-ag100.rhcloud.com"&gt;評分系統&lt;/a&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20161115210547.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161115210547.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
+						
+</t>
+<t tx="leo.20161115210547.3">## 2016/11/04 第九週
+
+</t>
+<t tx="leo.20161115210547.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161115210547.5">## 期中各班各組課程資料直接檢視
+
+&lt;p&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;檢查自己的連結是否正確&lt;/a&gt;&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>
