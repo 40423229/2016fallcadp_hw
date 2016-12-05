@@ -86,7 +86,7 @@
 <v t="leo.20161108194728.5"><vh>解決子模組在對應上的問題</vh></v>
 </v>
 </v>
-<v t="leo.20161108194731.1" a="E"><vh>20161028</vh>
+<v t="leo.20161108194731.1"><vh>20161028</vh>
 <v t="leo.20161108194731.2"><vh>上課日期</vh>
 <v t="leo.20161108194731.3"><vh>20161028</vh></v>
 </v>
@@ -94,7 +94,7 @@
 <v t="leo.20161108194731.5"><vh>使用Trace Point計算路徑</vh></v>
 </v>
 </v>
-<v t="leo.20161108194735.1" a="E"><vh>20161104</vh>
+<v t="leo.20161108194735.1"><vh>20161104</vh>
 <v t="leo.20161108194735.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161108194735.3"><vh>20161104</vh></v>
 </v>
@@ -102,12 +102,36 @@
 <v t="leo.20161108194735.5"><vh>期中自評與小組互評</vh></v>
 </v>
 </v>
-<v t="leo.20161115210547.1" a="E"><vh>20161111</vh>
+<v t="leo.20161115210547.1"><vh>20161111</vh>
 <v t="leo.20161115210547.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161115210547.3"><vh>20161111</vh></v>
 </v>
 <v t="leo.20161115210547.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161115210547.5"><vh>期中各班各組課程資料直接檢視</vh></v>
+</v>
+</v>
+<v t="leo.20161122234019.1" a="E"><vh>20161118</vh>
+<v t="leo.20161122234019.2"><vh>上課日期</vh>
+<v t="leo.20161122234019.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20161122234019.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161122234019.5"><vh>Solvespace 平面四連桿機構模擬</vh></v>
+</v>
+</v>
+<v t="leo.20161205084522.1" a="E"><vh>20161125</vh>
+<v t="leo.20161205084522.2"><vh>上課日期</vh>
+<v t="leo.20161205084522.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20161205084522.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
+</v>
+</v>
+<v t="leo.20161205084522.6" a="E"><vh>20161202</vh>
+<v t="leo.20161205084522.7"><vh>上課日期</vh>
+<v t="leo.20161205084522.8"><vh>20161202</vh></v>
+</v>
+<v t="leo.20161205084522.9" a="E"><vh>上課內容1</vh>
+<v t="leo.20161205084522.10"><vh>Solvespace 零件繪製及組立</vh></v>
 </v>
 </v>
 </v>
@@ -140,6 +164,9 @@
 <v t="leo.20161104092016.3"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161108192641.1"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115210806.1"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20161123000623.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20161205084248.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20161205084249.1"><vh>@edit 20161202.md</vh></v>
 </v>
 </v>
 </v>
@@ -697,7 +724,7 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161115210547.3">## 2016/11/04 第九週
+<t tx="leo.20161115210547.3">## 2016/11/11 第九週
 
 </t>
 <t tx="leo.20161115210547.4">&lt;section data-markdown&gt;
@@ -712,6 +739,88 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20161115210547.5">## 期中各班各組課程資料直接檢視
 
 &lt;p&gt;&lt;a href="http://mde.tw/2016fallcadp/blog/2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html"&gt;檢查自己的連結是否正確&lt;/a&gt;&lt;/p&gt;
+</t>
+<t tx="leo.20161122234019.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161122234019.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161122234019.3">## 2016/11/18 第十週
+
+</t>
+<t tx="leo.20161122234019.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161122234019.5">## Solvespace 平面四連桿機構模擬
+
+&lt;iframe src="https://player.vimeo.com/video/194281041" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194281041"&gt;cadp w10&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20161205084522.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161205084522.10">## Solvespace 零件繪製及組立
+
+
+</t>
+<t tx="leo.20161205084522.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161205084522.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20161205084522.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161205084522.5">## 校慶運動會</t>
+<t tx="leo.20161205084522.6">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161205084522.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161205084522.8">## 2016/11/18 第十二週
+
+</t>
+<t tx="leo.20161205084522.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
 </tnodes>
 </leo_file>
