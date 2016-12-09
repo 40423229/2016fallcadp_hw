@@ -110,7 +110,7 @@
 <v t="leo.20161115210547.5"><vh>期中各班各組課程資料直接檢視</vh></v>
 </v>
 </v>
-<v t="leo.20161122234019.1" a="E"><vh>20161118</vh>
+<v t="leo.20161122234019.1"><vh>20161118</vh>
 <v t="leo.20161122234019.2"><vh>上課日期</vh>
 <v t="leo.20161122234019.3"><vh>20161118</vh></v>
 </v>
@@ -118,7 +118,7 @@
 <v t="leo.20161122234019.5"><vh>Solvespace 平面四連桿機構模擬</vh></v>
 </v>
 </v>
-<v t="leo.20161205084522.1" a="E"><vh>20161125</vh>
+<v t="leo.20161205084522.1"><vh>20161125</vh>
 <v t="leo.20161205084522.2"><vh>上課日期</vh>
 <v t="leo.20161205084522.3"><vh>20161125</vh></v>
 </v>
@@ -126,12 +126,12 @@
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
-<v t="leo.20161205084522.6" a="E"><vh>20161202</vh>
-<v t="leo.20161205084522.7"><vh>上課日期</vh>
-<v t="leo.20161205084522.8"><vh>20161202</vh></v>
+<v t="leo.20161209115031.1"><vh>20161202</vh>
+<v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161205084522.9" a="E"><vh>上課內容1</vh>
-<v t="leo.20161205084522.10"><vh>Solvespace 零件繪製及組立</vh></v>
+<v t="leo.20161209115031.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161209115031.5"><vh>Solvespace 零件繪製及組立</vh></v>
 </v>
 </v>
 </v>
@@ -772,10 +772,6 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20161205084522.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161205084522.10">## Solvespace 零件繪製及組立
-
-
-</t>
 <t tx="leo.20161205084522.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -798,10 +794,10 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 						
 </t>
 <t tx="leo.20161205084522.5">## 校慶運動會</t>
-<t tx="leo.20161205084522.6">&lt;section&gt;
+<t tx="leo.20161209115031.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161205084522.7">&lt;section data-markdown&gt;
+<t tx="leo.20161209115031.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -810,10 +806,10 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161205084522.8">## 2016/11/18 第十二週
+<t tx="leo.20161209115031.3">## 2016/12/02 第十二週
 
 </t>
-<t tx="leo.20161205084522.9">&lt;section data-markdown&gt;
+<t tx="leo.20161209115031.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -822,5 +818,8 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
+<t tx="leo.20161209115031.5">## Solvespace 零件繪製及組立
+
+&lt;a&gt;&lt;iframe src="file:///Y:/tmp/2016fallcadp_hw/w12.html" width="640" height="400" frameborder="0" &lt;/iframe&gt;&lt;a&gt;</t>
 </tnodes>
 </leo_file>
