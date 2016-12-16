@@ -126,7 +126,7 @@
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
-<v t="leo.20161209115031.1"><vh>20161202</vh>
+<v t="leo.20161209115031.1" a="E"><vh>20161202</vh>
 <v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
@@ -838,7 +838,7 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="leo.20161209115031.5">## Solvespace 零件繪製及組立
 
-&lt;a&gt;&lt;iframe src="file:///Y:/tmp/2016fallcadp_hw/w12.html" width="640" height="400" frameborder="0" &lt;/iframe&gt;&lt;a&gt;</t>
+&lt;a&gt;&lt;iframe src="..\data\tmp\2016fallcadp_hw" width="640" height="400" frameborder="0" &lt;/iframe&gt;&lt;a&gt;</t>
 <t tx="leo.20161216095118.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
