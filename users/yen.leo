@@ -33,7 +33,7 @@
 <v t="leo.20161108193836.1"><vh>上課日期</vh>
 <v t="leo.20161108193836.2"><vh>20160916</vh></v>
 </v>
-<v t="leo.20161108193825.1"><vh>上課內容</vh>
+<v t="leo.20161108193825.1" a="E"><vh>上課內容</vh>
 <v t="leo.20161108193825.2"><vh>中秋連假</vh></v>
 </v>
 </v>
@@ -126,12 +126,20 @@
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
-<v t="leo.20161209115031.1"><vh>20161202</vh>
+<v t="leo.20161209115031.1" a="E"><vh>20161202</vh>
 <v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
 <v t="leo.20161209115031.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161209115031.5"><vh>Solvespace 零件繪製及組立</vh></v>
+</v>
+</v>
+<v t="leo.20161216095118.1"><vh>20161209</vh>
+<v t="leo.20161216095118.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216095118.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20161216095118.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161216095118.5"><vh></vh></v>
 </v>
 </v>
 </v>
@@ -167,6 +175,7 @@
 <v t="leo.20161123000623.1"><vh>@edit 20161118.md</vh></v>
 <v t="leo.20161205084248.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161205084249.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20161216095148.1"><vh>@edit 20161209.md</vh></v>
 </v>
 </v>
 </v>
@@ -821,5 +830,32 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20161209115031.5">## Solvespace 零件繪製及組立
 
 &lt;a&gt;&lt;iframe src="file:///Y:/tmp/2016fallcadp_hw/w12.html" width="640" height="400" frameborder="0" &lt;/iframe&gt;&lt;a&gt;</t>
+<t tx="leo.20161216095118.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216095118.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216095118.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20161216095118.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216095118.5">## 
+
+</t>
 </tnodes>
 </leo_file>
