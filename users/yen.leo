@@ -126,7 +126,7 @@
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
-<v t="leo.20161209115031.1" a="E"><vh>20161202</vh>
+<v t="leo.20161209115031.1"><vh>20161202</vh>
 <v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
@@ -140,6 +140,14 @@
 </v>
 <v t="leo.20161216095118.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161216095118.5"><vh></vh></v>
+</v>
+</v>
+<v t="leo.20161216100650.1"><vh>20161216</vh>
+<v t="leo.20161216100650.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161216100650.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20161216100650.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20161216100650.5"><vh></vh></v>
 </v>
 </v>
 </v>
@@ -176,6 +184,7 @@
 <v t="leo.20161205084248.1"><vh>@edit 20161125.md</vh></v>
 <v t="leo.20161205084249.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161216095148.1"><vh>@edit 20161209.md</vh></v>
+<v t="leo.20161216100633.1"><vh>@edit 20161216.md</vh></v>
 </v>
 </v>
 </v>
@@ -855,6 +864,33 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 						
 </t>
 <t tx="leo.20161216095118.5">## 
+
+</t>
+<t tx="leo.20161216100650.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161216100650.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216100650.3">## 2016/12/16 第十四週
+
+</t>
+<t tx="leo.20161216100650.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161216100650.5">## 
 
 </t>
 </tnodes>
