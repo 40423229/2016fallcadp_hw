@@ -122,7 +122,7 @@
 <v t="leo.20161205084522.2"><vh>上課日期</vh>
 <v t="leo.20161205084522.3"><vh>20161125</vh></v>
 </v>
-<v t="leo.20161205084522.4"><vh>上課內容1</vh>
+<v t="leo.20161205084522.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
@@ -130,8 +130,20 @@
 <v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161209115031.4" a="E"><vh>上課內容1</vh>
-<v t="leo.20161209115031.5"><vh>Solvespace 零件繪製及組立</vh></v>
+<v t="leo.20161209115031.4"><vh>上課內容1</vh>
+<v t="leo.20161209115031.5"><vh>Solvespace轉html檔</vh></v>
+</v>
+<v t="leo.20170105233320.1" a="E"><vh>上課內容2</vh>
+<v t="leo.20170105233320.2"><vh>Cube</vh></v>
+</v>
+<v t="leo.20170105233326.1" a="E"><vh>上課內容3</vh>
+<v t="leo.20170105233326.2"><vh>Strut</vh></v>
+</v>
+<v t="leo.20170105233332.1" a="E"><vh>上課內容4</vh>
+<v t="leo.20170105233332.2"><vh>組合</vh></v>
+</v>
+<v t="leo.20170105233337.1" a="E"><vh>上課內容5</vh>
+<v t="leo.20170105233337.2"><vh>組合2</vh></v>
 </v>
 </v>
 <v t="leo.20161216095118.1"><vh>20161209</vh>
@@ -185,6 +197,8 @@
 <v t="leo.20161205084249.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161216095148.1"><vh>@edit 20161209.md</vh></v>
 <v t="leo.20161216100633.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20170105214244.1"><vh>@edit 20161223.md</vh></v>
+<v t="leo.20170105214244.2"><vh>@edit 20161230.md</vh></v>
 </v>
 </v>
 </v>
@@ -836,9 +850,12 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161209115031.5">## Solvespace 零件繪製及組立
+<t tx="leo.20161209115031.5">## Solvespace轉html檔
 
-&lt;a&gt;&lt;iframe src="../w12.html" width="800" height="800" frameborder="0" &lt;/iframe&gt;&lt;a&gt;</t>
+&lt;p&gt;Solvespace轉html檔&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198203078" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198203078"&gt;2017-01-05 22-45-31&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20161216095118.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -893,5 +910,59 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20161216100650.5">## 
 
 </t>
+<t tx="leo.20170105233320.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170105233320.2">## Cube
+
+&lt;iframe src="https://player.vimeo.com/video/198207156" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198207156"&gt;cadpb w12-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170105233326.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170105233326.2">## Strut
+
+&lt;iframe src="https://player.vimeo.com/video/198207237" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198207237"&gt;cadpb w12-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170105233332.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170105233332.2">## 組合
+
+&lt;iframe src="https://player.vimeo.com/video/198207255" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198207255"&gt;cadpb w12-3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170105233337.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170105233337.2">## 組合2
+
+&lt;iframe src="https://player.vimeo.com/video/195902558" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/195902558"&gt;2016-12-16 11-15-20&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 </tnodes>
 </leo_file>
