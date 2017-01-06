@@ -79,7 +79,7 @@
 </v>
 </v>
 <v t="leo.20161108194728.1"><vh>20161021</vh>
-<v t="leo.20161108194728.2" a="E"><vh>上課日期</vh>
+<v t="leo.20161108194728.2"><vh>上課日期</vh>
 <v t="leo.20161108194728.3"><vh>20161021</vh></v>
 </v>
 <v t="leo.20161108194728.4"><vh>上課內容1</vh>
@@ -126,7 +126,7 @@
 <v t="leo.20161205084522.5"><vh>校慶運動會</vh></v>
 </v>
 </v>
-<v t="leo.20161209115031.1" a="E"><vh>20161202</vh>
+<v t="leo.20161209115031.1"><vh>20161202</vh>
 <v t="leo.20161209115031.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161209115031.3"><vh>20161202</vh></v>
 </v>
@@ -151,7 +151,7 @@
 <v t="leo.20161216095118.3"><vh>20161209</vh></v>
 </v>
 <v t="leo.20161216095118.4" a="E"><vh>上課內容1</vh>
-<v t="leo.20161216095118.5"><vh></vh></v>
+<v t="leo.20161216095118.5"><vh>github 無法正確更新</vh></v>
 </v>
 </v>
 <v t="leo.20161216100650.1"><vh>20161216</vh>
@@ -160,6 +160,22 @@
 </v>
 <v t="leo.20161216100650.4" a="E"><vh>上課內容1</vh>
 <v t="leo.20161216100650.5"><vh></vh></v>
+</v>
+</v>
+<v t="leo.20170106101156.1"><vh>20161223</vh>
+<v t="leo.20170106101156.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101156.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170106101156.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20170106101156.5"><vh></vh></v>
+</v>
+</v>
+<v t="leo.20170106101156.6"><vh>20161230</vh>
+<v t="leo.20170106101156.7" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101156.8"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170106101156.9" a="E"><vh>上課內容1</vh>
+<v t="leo.20170106101156.10"><vh></vh></v>
 </v>
 </v>
 </v>
@@ -880,9 +896,9 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161216095118.5">## 
+<t tx="leo.20161216095118.5">## github 無法正確更新
 
-</t>
+當版本上傳後 github pages 無法正確更新, 試著 git rm -f -r plugin/liquid_tags/test_data 後提交推送.如果沒有git rm就會出現一個紅色叉叉</t>
 <t tx="leo.20161216100650.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -964,5 +980,59 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 &lt;iframe src="https://player.vimeo.com/video/195902558" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/195902558"&gt;2016-12-16 11-15-20&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170106101156.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170106101156.10">## 
+
+</t>
+<t tx="leo.20170106101156.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101156.3">## 2016/12/16 第十五週
+
+</t>
+<t tx="leo.20170106101156.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101156.5">## 
+
+</t>
+<t tx="leo.20170106101156.6">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170106101156.7">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101156.8">## 2016/12/30 第十六週
+
+</t>
+<t tx="leo.20170106101156.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
 </tnodes>
 </leo_file>
