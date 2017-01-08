@@ -159,7 +159,7 @@
 <v t="leo.20161216100650.3"><vh>20161216</vh></v>
 </v>
 <v t="leo.20161216100650.4" a="E"><vh>上課內容1</vh>
-<v t="leo.20161216100650.5"><vh></vh></v>
+<v t="leo.20161216100650.5"><vh>整理之前上課的內容</vh></v>
 </v>
 </v>
 <v t="leo.20170106101156.1"><vh>20161223</vh>
@@ -167,7 +167,10 @@
 <v t="leo.20170106101156.3"><vh>20161223</vh></v>
 </v>
 <v t="leo.20170106101156.4" a="E"><vh>上課內容1</vh>
-<v t="leo.20170106101156.5"><vh></vh></v>
+<v t="leo.20170106101156.5"><vh>delta_printer組立</vh></v>
+</v>
+<v t="leo.20170108222924.1" a="E"><vh>上課內容2</vh>
+<v t="leo.20170108222924.2"><vh>在Onshape中限制滑軌的滑動範圍</vh></v>
 </v>
 </v>
 <v t="leo.20170106101156.6"><vh>20161230</vh>
@@ -923,7 +926,7 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161216100650.5">## 
+<t tx="leo.20161216100650.5">## 整理之前上課的內容
 
 </t>
 <t tx="leo.20170105233320.1">&lt;section data-markdown&gt;
@@ -1007,9 +1010,10 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20170106101156.5">## 
+<t tx="leo.20170106101156.5">## delta_printer組立
 
-</t>
+&lt;iframe src="https://player.vimeo.com/video/198352046" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198352046"&gt;w15 delta printer&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170106101156.6">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -1034,5 +1038,18 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
+<t tx="leo.20170108222924.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170108222924.2">## 在Onshape中限制滑軌的滑動範圍
+
+&lt;iframe src="https://player.vimeo.com/video/198560111" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/198560111"&gt;w15 onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 </tnodes>
 </leo_file>
