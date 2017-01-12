@@ -178,7 +178,15 @@
 <v t="leo.20170106101156.8"><vh>20161230</vh></v>
 </v>
 <v t="leo.20170106101156.9" a="E"><vh>上課內容1</vh>
-<v t="leo.20170106101156.10"><vh></vh></v>
+<v t="leo.20170106101156.10"><vh>約束機構運動過程</vh></v>
+</v>
+</v>
+<v t="leo.20170112221444.1"><vh>20170106</vh>
+<v t="leo.20170112221444.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170112221444.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170112221444.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20170112221444.5"><vh></vh></v>
 </v>
 </v>
 </v>
@@ -218,6 +226,7 @@
 <v t="leo.20161216100633.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170105214244.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170105214244.2"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170112221405.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -986,9 +995,10 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20170106101156.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170106101156.10">## 
+<t tx="leo.20170106101156.10">## 約束機構運動過程
 
-</t>
+&lt;iframe src="https://player.vimeo.com/video/199161207" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199161207"&gt;W16 Assembly parts onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170106101156.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1050,6 +1060,33 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20170108222924.2">## 在Onshape中限制滑軌的滑動範圍
 
 &lt;iframe src="https://player.vimeo.com/video/198560111" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/198560111"&gt;w15 onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/198560111"&gt;Onshape_delta_printer&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170112221444.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170112221444.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112221444.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170112221444.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112221444.5">## 
+
+</t>
 </tnodes>
 </leo_file>
