@@ -189,6 +189,14 @@
 <v t="leo.20170112221444.5"><vh></vh></v>
 </v>
 </v>
+<v t="leo.20170113094300.1" a="E"><vh>20170113</vh>
+<v t="leo.20170113094300.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170113094300.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170113094300.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20170113094300.5"><vh>2016Fall 電腦輔助設計實習課程總結</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -227,6 +235,7 @@
 <v t="leo.20170105214244.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170105214244.2"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170112221405.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170113094321.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -1088,5 +1097,70 @@ Created by [40423229](http://chiamingyen.github.io/kmolab/blog/)
 <t tx="leo.20170112221444.5">## 
 
 </t>
+<t tx="leo.20170113094300.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170113094300.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113094300.3">## 2017/01/13 第十八週
+
+</t>
+<t tx="leo.20170113094300.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113094300.5">## 2016Fall 電腦輔助設計實習課程總結
+
+1.創造力三元素
+
+自學能力、程式能力、像能力 
+
+2.六種表達方式
+
+口語表達、文字表達、2D圖像表達、3D圖像表達、理論分析表達、實體表達
+
+3.可攜式 Python3 程式環境
+
+可攜式程式環境
+Leo Editor
+Pelican 網誌
+Reveal 網頁投影片
+git client
+Github倉儲、gh-pages與wiki
+Brython 網際程式系統
+
+
+4.Solvespace 參數3D繪圖系統
+
+簡單的3D零件與組立件
+2D機構模擬(kinematics)
+3D零件與組立件網際檢視(three.js)
+
+5.Onshape 雲端參數3D繪圖系統
+
+以電腦瀏覽器開啟，免單機安裝厚重系統
+提供網際網路組件與機構模擬檢視
+
+6.零組件繪圖練習
+
+Solvespace Tutorial、 Onshape、 delta 3D printer、 Fourbar Linkage、 Nutcracker範例
+
+7.ShareX 取畫面圖像與操作影片錄製
+
+操作過程影片送到Vimeo、Youtube
+
+8.Github submodule 網際協同(納入協同產品設計實習課程範圍)</t>
 </tnodes>
 </leo_file>
